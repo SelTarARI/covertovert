@@ -6,7 +6,8 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Selim Tarık ARI
+Miraç ALADAĞ
 
 
 .. toctree::
