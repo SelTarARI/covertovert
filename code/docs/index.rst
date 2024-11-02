@@ -6,8 +6,7 @@
 Basic ICMP Documentation
 ========================
 
-Selim Tarık ARI
-Miraç ALADAĞ
+Selim Tarık ARI - Miraç ALADAĞ
 
 
 .. toctree::
