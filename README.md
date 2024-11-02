@@ -3,7 +3,7 @@ Open source implementation of "network" covert channels.
 
 ## Installation
 
-Install docker (and optionally compose V2 plugin - not the docker-compose!) and VSCode on your sytstem. Run the docker containers as non-root users.
+Install docker (and optionally compose V2 plugin - not the docker-compose!) and VSCode on your system. Run the docker containers as non-root users.
 
 To start sender and receiver containers:
 ```
