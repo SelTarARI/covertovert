@@ -1,10 +1,11 @@
 import scapy
 
 # Implement your ICMP sender here
+from scapy.all import *
+
 def send_icmp():
-    # Replace 'receiver_container_ip' with the actual IP address of the receiver container
-    packet = IP(dst="receiver_container_ip", ttl=1) / ICMP()
-    # Send the packet
+    # Send ICMP packet to
+    packet = IP(dst="172.18.0.3", ttl=1) / ICMP()
     send(packet)
     print("ICMP packet sent")
 
